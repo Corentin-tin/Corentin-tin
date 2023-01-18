@@ -6,6 +6,7 @@
   Data science and Engineering student, I am passionate about Computer and Data Sciences
   <img src="https://media.giphy.com/media/h5oSMOkaaGhvPFv0Po/giphy.gif" width="35px">
   <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/MXvCbPrxWr3F3KVemU/giphy.gif" width="35px">
 </h2>
 
 
