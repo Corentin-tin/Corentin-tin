@@ -3,7 +3,7 @@
   I'm Corentin Merlé
 </h1>
 <h2 align="center">
-  Data science and Engineering student, I am passionate about Computer and Data Sciences
+  Data scientist and Engineer, I am passionate about Computer and Data Sciences
 </h2>
 <h2 align="center">
   <img src="https://media.giphy.com/media/MXvCbPrxWr3F3KVemU/giphy.gif" width="55px">
